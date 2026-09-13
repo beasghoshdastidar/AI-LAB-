@@ -1,2 +1,2 @@
 # AI-LAB-
-Work is done i lab class.
+Work is done in lab class.
